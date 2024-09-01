@@ -9,6 +9,8 @@ body {
 
 #img-div {
   width: 800px;
+	margin-top: 20px;
+	text-align: center;
 }
 
 #main {
@@ -23,11 +25,6 @@ body {
 #title {
   font-size: 2em;
   margin-bottom: 20px;
-}
-
-#img-div {
-  margin-top: 20px;
-  text-align: center;
 }
 
 #image {
